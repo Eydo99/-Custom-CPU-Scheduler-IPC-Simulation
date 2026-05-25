@@ -1,0 +1,2 @@
+CPU utilization = 93.33%
+Avg TAT = 5.75, Avg WT = 2.25
